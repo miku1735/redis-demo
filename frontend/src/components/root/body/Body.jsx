@@ -1,12 +1,12 @@
 import React from 'react'
+import RedisExample from './redisExample/redisExample'
 import TopDetails from './topDetails/TopDetails'
 
 function Body() {
-    var body = React.createRef();
     return (
         <div  className="Body">
-            <TopDetails body={body}/>
-            <div className="check" id="check"></div>
+            <TopDetails/>
+            <RedisExample/>
         </div>
     )
 }

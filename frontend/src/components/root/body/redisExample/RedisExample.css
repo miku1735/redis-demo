@@ -1,0 +1,33 @@
+.RedisExample::before{
+    content: "";
+    top:0;
+    left:0;
+    height: 100%;
+    width : 100%;
+    position: absolute;
+    background : linear-gradient(#f00, #f0f);
+    clip-path: circle( 35% at 0% 10%);
+    z-index: 0;
+}
+.RedisExample{
+    position: relative;
+    height: 550px;
+    overflow: hidden;
+    margin: 50px;
+    margin-top: 80px;;
+    border-radius: 20px;
+    box-shadow: 0px 0px 7px 1px #2375BB;
+    z-index: 1;
+}
+.RedisExample::after{
+    content: "";
+    top:0;
+    left:0;
+    height: 100%;
+    width : 100%;
+    position: absolute;
+    background : linear-gradient(rgb(255, 0, 234), rgb(0, 255, 242));
+    clip-path: circle( 35% at 100% 100%);
+    z-index: 0;
+
+}

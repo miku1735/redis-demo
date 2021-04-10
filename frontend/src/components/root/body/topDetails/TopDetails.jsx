@@ -22,7 +22,7 @@ const useStyles = makeStyles({
   });
 
 
-function TopDetails({body}) {
+function TopDetails() {
     const classes = useStyles();
     const handleClick = id =>{
         window.scrollTo(0, 400);
@@ -33,8 +33,9 @@ function TopDetails({body}) {
             <div className="TopDetails">
                 <Grid container  justify="center" className="TopDetails__mainGrid">
                     <Grid container item alignItems="center" justify="center" xs={12} >
-                        <Grid container item alignItems="center" justify="center" xs={12} >
-                            <h1>Let's test the "REDIS CACHE" usecase</h1>
+                        <Grid container item display="flex" alignItems="center" justify="center" xs={12} >
+                            <h1>LET'S TEST </h1>
+                            <h1 className="redis">{"REDIS CACHE"}</h1>
                         </Grid>
                         <Grid container item alignItems="center" justify="center" xs={12} >
                             <h3>IBM internal project to showcase the use of REDIS database for ICET </h3>
