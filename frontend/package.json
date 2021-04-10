@@ -10,7 +10,8 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "vanilla-tilt": "^1.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -19,7 +20,7 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": "react-app" 
+    "extends": "react-app"
   },
   "browserslist": {
     "production": [
