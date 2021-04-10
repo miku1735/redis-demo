@@ -1,0 +1,19 @@
+.Header{
+    position: fixed;
+    height: 5rem;
+    width: 100vw;
+    z-index: 100;
+}
+.Header.active{
+    background-color: white;
+    box-shadow: 3px 3px 15px 3px rgb(153, 153, 153);
+}
+
+.Header__icon{
+    color: white;
+    margin-top: 20px;
+    margin-left: 400px;
+}
+.Header__icon.active{
+    color: gray;
+}

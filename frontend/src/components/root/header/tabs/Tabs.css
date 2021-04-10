@@ -1,0 +1,8 @@
+.Tabs{
+    margin-top: 10px;
+    color: white;
+    font-family: 'New Tegomin', serif;
+}
+.Tabs.active{
+    color: gray;
+}
