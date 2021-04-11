@@ -6,7 +6,7 @@
     width : 100%;
     position: absolute;
     background : linear-gradient(#f00, #f0f);
-    clip-path: circle( 35% at 0% 10%);
+    clip-path: circle( 35% at 5% 5%);
     z-index: 0;
 }
 .RedisExample{
@@ -28,7 +28,19 @@
     width : 100%;
     position: absolute;
     background : linear-gradient(rgb(255, 0, 234), rgb(0, 255, 242));
-    clip-path: circle( 35% at 100% 100%);
+    clip-path: circle( 35% at 95% 95%);
     z-index: 0;
+}
+
+
+.RedisExample__load{
+    position: absolute;
+    top:45%;
+    left:45%;
+    padding-left: 60px !important;
+    padding-right: 60px !important;
+    letter-spacing: 6px !important;
+    box-shadow: 0px 0px 7px 2px #2375BB;
+    z-index: 3;
 
 }

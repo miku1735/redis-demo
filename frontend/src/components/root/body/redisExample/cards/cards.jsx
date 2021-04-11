@@ -4,15 +4,17 @@ import Card from "./card/card"
 import "./cards.css"
 
 function Cards() {
+    let noOfCards = Array(4).fill("").map((_,index)=> index/10)
+    console.log(noOfCards)
     return (
         <div className="Cards">
             <Grid container spacing={3}>
                 {
-                    Array(4).fill("").map(()=>
-                        <Grid item xs={3}>
-                            <Card/>
+                    noOfCards.map(val=>
+                        <Grid item xs={3} >
+                            <Card val={val}/>
                         </Grid>      
-                        )
+                        ) 
                 }
             </Grid>
         </div>
