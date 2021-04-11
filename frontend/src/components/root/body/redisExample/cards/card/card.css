@@ -7,10 +7,28 @@
     border-radius: 15px;
     background: rgba(255,255,255,0.1);
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    justify-content:space-around ;
     align-items: center;
     border-top: 1px solid rgba(255,255,255,0.5);
     border-left: 1px solid rgba(255,255,255,0.5);
     backdrop-filter: blur(5px);
-    z-index: 2
+    z-index: 2;
+}
+.Card__image{
+    width: 180px;
+    height: 120px;
+    border-radius: 50%;
+    clip-path: circle(50px);
+}
+.Card__Typo1{
+    margin-top: 50px;
+    text-transform:uppercase;
+    color: rgba(8, 8, 8, 0.397);
+}
+.Card__Typo2{
+    font-size: small;
+    padding: 20px;
+    color: rgba(8, 8, 8, 0.397);
+    text-align: justify;
 }
