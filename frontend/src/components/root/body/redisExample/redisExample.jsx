@@ -8,7 +8,7 @@ function RedisExample() {
     let [renderbutton, setRenderButton] = React.useState(0)
     let loadButton = React.useRef(null)
     React.useEffect(()=>{
-        gsap.to(loadButton.current,{opacity:1,x:-40,y:renderbutton,duration:1})
+        gsap.to(loadButton.current,{opacity:1,x:-40,y:renderbutton,duration:0.5})
     },[renderbutton])
     return (
         <div className="RedisExample">

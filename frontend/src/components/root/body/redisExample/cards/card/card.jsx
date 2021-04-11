@@ -12,7 +12,7 @@ function Card({val}) {
         });
     },[])
     useEffect(()=>{
-        gsap.from(CardRef.current,{opacity:0,y:25,duration:val*5})
+        gsap.from(CardRef.current,{opacity:0,y:25,duration:val*6,delay:0.5})
     },[])
     return (
         <div ref={CardRef} className="Card">
