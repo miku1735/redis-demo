@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/redis-demo/static/css/main.199697d5.chunk.css",
-    "main.js": "/redis-demo/static/js/main.24c22e55.chunk.js",
-    "main.js.map": "/redis-demo/static/js/main.24c22e55.chunk.js.map",
+    "main.js": "/redis-demo/static/js/main.b9f1ecc0.chunk.js",
+    "main.js.map": "/redis-demo/static/js/main.b9f1ecc0.chunk.js.map",
     "runtime-main.js": "/redis-demo/static/js/runtime-main.ca6531d1.js",
     "runtime-main.js.map": "/redis-demo/static/js/runtime-main.ca6531d1.js.map",
     "static/js/2.e0c27ed5.chunk.js": "/redis-demo/static/js/2.e0c27ed5.chunk.js",
     "static/js/2.e0c27ed5.chunk.js.map": "/redis-demo/static/js/2.e0c27ed5.chunk.js.map",
     "index.html": "/redis-demo/index.html",
-    "precache-manifest.019f4b8da1c42ed051be48fbb82a3a22.js": "/redis-demo/precache-manifest.019f4b8da1c42ed051be48fbb82a3a22.js",
+    "precache-manifest.0b51f6fb36dacdc9de9cf0327cdba027.js": "/redis-demo/precache-manifest.0b51f6fb36dacdc9de9cf0327cdba027.js",
     "service-worker.js": "/redis-demo/service-worker.js",
     "static/css/main.199697d5.chunk.css.map": "/redis-demo/static/css/main.199697d5.chunk.css.map",
     "static/js/2.e0c27ed5.chunk.js.LICENSE.txt": "/redis-demo/static/js/2.e0c27ed5.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ca6531d1.js",
     "static/js/2.e0c27ed5.chunk.js",
     "static/css/main.199697d5.chunk.css",
-    "static/js/main.24c22e55.chunk.js"
+    "static/js/main.b9f1ecc0.chunk.js"
   ]
 }
