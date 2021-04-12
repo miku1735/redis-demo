@@ -21,7 +21,7 @@ function Card({des}) {
                 className="Card__image"
                 src={des.pic}
             />
-            <Typography className="Card__Typo1" variant="h3">
+            <Typography className="Card__Typo1" variant="h4">
                 {des.name}
             </Typography>
             <Typography className="Card__Typo2" variant="h6">
