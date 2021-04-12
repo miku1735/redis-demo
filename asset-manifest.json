@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/redis-demo/static/css/main.1af47926.chunk.css",
-    "main.js": "/redis-demo/static/js/main.8d52440a.chunk.js",
-    "main.js.map": "/redis-demo/static/js/main.8d52440a.chunk.js.map",
+    "main.css": "/redis-demo/static/css/main.bc28143e.chunk.css",
+    "main.js": "/redis-demo/static/js/main.e55dd373.chunk.js",
+    "main.js.map": "/redis-demo/static/js/main.e55dd373.chunk.js.map",
     "runtime-main.js": "/redis-demo/static/js/runtime-main.ca6531d1.js",
     "runtime-main.js.map": "/redis-demo/static/js/runtime-main.ca6531d1.js.map",
     "static/js/2.8c4ddc56.chunk.js": "/redis-demo/static/js/2.8c4ddc56.chunk.js",
     "static/js/2.8c4ddc56.chunk.js.map": "/redis-demo/static/js/2.8c4ddc56.chunk.js.map",
     "index.html": "/redis-demo/index.html",
-    "precache-manifest.989e11b758e3bb780a3d255e11074528.js": "/redis-demo/precache-manifest.989e11b758e3bb780a3d255e11074528.js",
+    "precache-manifest.1a7c8b756250d7bb379c76decb6993f9.js": "/redis-demo/precache-manifest.1a7c8b756250d7bb379c76decb6993f9.js",
     "service-worker.js": "/redis-demo/service-worker.js",
-    "static/css/main.1af47926.chunk.css.map": "/redis-demo/static/css/main.1af47926.chunk.css.map",
+    "static/css/main.bc28143e.chunk.css.map": "/redis-demo/static/css/main.bc28143e.chunk.css.map",
     "static/js/2.8c4ddc56.chunk.js.LICENSE.txt": "/redis-demo/static/js/2.8c4ddc56.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ca6531d1.js",
     "static/js/2.8c4ddc56.chunk.js",
-    "static/css/main.1af47926.chunk.css",
-    "static/js/main.8d52440a.chunk.js"
+    "static/css/main.bc28143e.chunk.css",
+    "static/js/main.e55dd373.chunk.js"
   ]
 }
